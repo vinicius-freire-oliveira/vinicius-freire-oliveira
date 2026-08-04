@@ -10,7 +10,9 @@
 
 💻 Python • SQL • Power BI • Automação • Análise de Dados
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Python;Analista+de+Dados;Automação+de+Processos;SQL+e+Power+BI;Sempre+Aprendendo..." />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Analista+de+Dados;Sempre+aprendendo" alt="Typing SVG" />
+</p>
 
 > Transformando dados em soluções e ideias em código.
 

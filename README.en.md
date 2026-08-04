@@ -10,7 +10,9 @@
 
 💻 Python • SQL • Power BI • Automation • Data Analytics
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Process+Automation;SQL+and+Power+BI;Always+Learning..." />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Analyst;Always+Learning" alt="Typing SVG" />
+</p>
 
 > Turning data into solutions and ideas into code.
 
