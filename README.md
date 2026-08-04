@@ -37,7 +37,7 @@ Unindo arquitetura, tecnologia e dados para desenvolver soluções inteligentes 
 
 # 👨‍💻 Sobre mim
 
-Sou **Arquiteto e Urbanista**, com formação em **Análise e Desenvolvimento de Sistemas**, explorando a integração entre arquitetura, tecnologia e dados para desenvolver soluções inteligentes.
+Sou **Arquiteto e Urbanista** e **Tecnólogo em Análise e Desenvolvimento de Sistemas**, explorando a integração entre arquitetura, tecnologia e dados para desenvolver soluções inteligentes.
 
 Minha trajetória une o conhecimento adquirido em projetos arquitetônicos e engenharia com ferramentas de programação, análise de dados e automação de processos.
 
