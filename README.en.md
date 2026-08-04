@@ -4,15 +4,15 @@
 
 <br>
 
-# 👋 Olá, eu sou Vinícius Freire
+# 👋 Hi, I'm Vinícius Freire
 
-### Desenvolvedor Python • Analista de Dados
+### Python Developer • Data Analyst
 
-💻 Python • SQL • Power BI • Automação • Análise de Dados
+💻 Python • SQL • Power BI • Automation • Data Analytics
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Python;Analista+de+Dados;Automação+de+Processos;SQL+e+Power+BI;Sempre+Aprendendo..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Process+Automation;SQL+and+Power+BI;Always+Learning..." />
 
-> Transformando dados em soluções e ideias em código.
+> Turning data into solutions and ideas into code.
 
 <br>
 
@@ -28,27 +28,27 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas (ADS)** e em **Arquitetura e Urbanismo**.
+I hold degrees in **Systems Analysis and Development** and **Architecture and Urbanism**.
 
-Atualmente direciono minha carreira para o desenvolvimento de software, automação de processos e análise de dados, buscando criar soluções eficientes e escaláveis.
+I am currently focused on software development, process automation, and data analytics, with the goal of building efficient, scalable, and high-quality solutions.
 
-Tenho interesse especial em **Python**, **SQL**, **Power BI** e tecnologias voltadas para automação, desenvolvimento de aplicações e análise de dados.
+My main areas of interest include **Python**, **SQL**, **Power BI**, and technologies related to automation, application development, and data analytics.
 
-Minha experiência anterior em arquitetura agregou competências como planejamento, organização, gestão de projetos e resolução de problemas, habilidades que hoje aplico também no desenvolvimento de software.
-
----
-
-# 🎓 Formação
-
-- 🎓 Análise e Desenvolvimento de Sistemas
-
-- 🎓 Arquitetura e Urbanismo
+My background in architecture has strengthened skills such as planning, organization, project management, and problem-solving, which I now apply to software development and technology projects.
 
 ---
 
-# 🚀 Tecnologias
+# 🎓 Education
+
+- 🎓 Systems Analysis and Development
+
+- 🏛️ Architecture and Urbanism
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -84,33 +84,33 @@ Minha experiência anterior em arquitetura agregou competências como planejamen
 
 | | |
 |:---:|:---:|
-| 🤝 Trabalho em equipe | 💡 Resolução de problemas |
-| 🧠 Inteligência emocional | 🔄 Adaptabilidade |
-| ❤️ Empatia | 🌱 Aprendizado contínuo |
+| 🤝 Teamwork | 💡 Problem Solving |
+| 🧠 Emotional Intelligence | 🔄 Adaptability |
+| ❤️ Empathy | 🌱 Continuous Learning |
 
 </div>
 
 ---
 
-# 📚 Atualmente estudando
+# 📚 Currently Learning
 
-- 🐍 Python Avançado
+- 🐍 Advanced Python
 - 🗄️ SQL
 - 📊 Power BI
-- 🌐 APIs REST
-- 🤖 Automação de Processos
+- 🌐 REST APIs
+- 🤖 Process Automation
 - 🕷️ Web Scraping
-- 📈 Análise de Dados
+- 📈 Data Analytics
 
 ---
 
-# 🎯 Objetivos
+# 🎯 Career Goals
 
-Atualmente busco oportunidades para atuar como **Desenvolvedor Python** ou **Analista de Dados**, contribuindo com soluções eficientes, aprendizado contínuo e desenvolvimento de projetos que gerem valor para empresas e equipes.
+I am seeking opportunities as a **Python Developer** or **Data Analyst**, where I can combine my technical expertise, analytical thinking, and multidisciplinary background to build efficient solutions, solve real-world problems, and contribute to the success of innovative teams and organizations.
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Atualmente busco oportunidades para atuar como **Desenvolvedor Python** ou **Ana
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 📈 GitHub Activity
 
 <div align="center">
 
@@ -130,9 +130,17 @@ Atualmente busco oportunidades para atuar como **Desenvolvedor Python** ou **Ana
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius-freire-oliveira&theme=github-compact&hide_border=true"/>
+
+</div>
+
 ---
 
-# 🏆 Conquistas
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -142,29 +150,29 @@ Atualmente busco oportunidades para atuar como **Desenvolvedor Python** ou **Ana
 
 ---
 
-# 🚀 Em desenvolvimento
+# 🚀 In Progress
 
-Atualmente estou construindo meu portfólio com projetos voltados para:
+I am currently building my portfolio with projects focused on:
 
 - 🐍 Python
-- 📊 Análise de Dados
+- 📊 Data Analytics
 - 🗄️ SQL
 - 📈 Power BI
-- 🤖 Automação
+- 🤖 Automation
 
 ---
 
 <div align="center">
 
-⭐ Obrigado pela visita!
+⭐ Thanks for visiting!
 
-Se gostou dos meus projetos, não esqueça de deixar uma ⭐.
+If you enjoyed my projects, don't forget to leave a ⭐.
 
 </div>
 
 ---
 
-# 📫 Contato
+# 📫 Contact
 
 <div align="center">
 
