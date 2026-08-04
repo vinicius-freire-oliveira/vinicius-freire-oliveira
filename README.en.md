@@ -4,14 +4,19 @@
 
 <br>
 
-# 👋 Hi, I'm Vinícius Freire
+<h1 align="center">👋 Hello, I'm Vinícius Freire</h1>
 
-### Python Developer • Data Analyst
+<h3 align="center">
+🏗️ Architect and Urban Planner | 💻 Systems Analysis and Development | 🐍 Python, 📊 Data & ⚙️ Automation
+</h3>
 
-💻 Python • SQL • Power BI • Automation • Data Analytics
+Bridging architecture, technology, and data to create intelligent solutions through programming and automation.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Analyst;Always+Learning" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Architect+%7C+Systems+Analysis+%26+Development;Python+%7C+Data+%7C+Automation;Connecting+Architecture,+Data+and+Technology"
+    alt="Typing SVG"
+  />
 </p>
 
 > Turning data into solutions and ideas into code.
@@ -44,9 +49,9 @@ My background in architecture has strengthened skills such as planning, organiza
 
 # 🎓 Education
 
-- 🎓 Systems Analysis and Development
-
 - 🏛️ Architecture and Urbanism
+
+- 🎓 Systems Analysis and Development
 
 ---
 
@@ -70,8 +75,6 @@ My background in architecture has strengthened skills such as planning, organiza
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge"/>
@@ -94,7 +97,7 @@ My background in architecture has strengthened skills such as planning, organiza
 
 ---
 
-# 📚 Currently Learning
+# 📚 Continuous Learning
 
 - 🐍 Advanced Python
 - 🗄️ SQL
@@ -106,33 +109,59 @@ My background in architecture has strengthened skills such as planning, organiza
 
 ---
 
-# 🎯 Career Goals
+## 🚀 Areas of Interest
 
-I am seeking opportunities as a **Python Developer** or **Data Analyst**, where I can combine my technical expertise, analytical thinking, and multidisciplinary background to build efficient solutions, solve real-world problems, and contribute to the success of innovative teams and organizations.
+### 🏗️ Technology Integration in Architecture and Engineering
+- Data-driven architecture
+- BIM and digital workflows
+- Automation applied to architecture and engineering
+- Optimization of design and project processes
+- Smart solutions for the built environment
+
+### 📊 Data Analytics & Business Intelligence
+- Data analysis and exploration
+- Data visualization and storytelling
+- Interactive dashboards with Power BI
+- Business intelligence solutions
+- Decision-making based on data
+
+### 🐍 Python Development & Automation
+- Python scripting and automation
+- Process optimization
+- Data processing and manipulation
+- Web scraping and data collection
+- Development of practical solutions
+
+### 🗄️ Databases & Backend Development
+- SQL database modeling
+- Data organization and management
+- API development
+- Backend fundamentals
+- Integration between systems
+
+### 🤖 Emerging Technologies
+- Artificial Intelligence applied to processes
+- Machine Learning fundamentals
+- Data-driven solutions
+- Digital transformation
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 In Development
+
+I am currently building my portfolio with projects focused on:
+
+- 🐍 Python
+- 📊 Data Analysis
+- 🗄️ SQL
+- 📈 Power BI
+- 🤖 Automation
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinicius-freire-oliveira&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-freire-oliveira&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 
 ---
 
 # 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vinicius-freire-oliveira&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -142,35 +171,21 @@ I am seeking opportunities as a **Python Developer** or **Data Analyst**, where 
 
 ---
 
-# 🏆 GitHub Achievements
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinicius-freire-oliveira&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-# 🚀 In Progress
-
-I am currently building my portfolio with projects focused on:
-
-- 🐍 Python
-- 📊 Data Analytics
-- 🗄️ SQL
-- 📈 Power BI
-- 🤖 Automation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius-freire-oliveira/vinicius-freire-oliveira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius-freire-oliveira/vinicius-freire-oliveira/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vinicius-freire-oliveira/vinicius-freire-oliveira/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-<div align="center">
+⭐ Thank you for visiting!
 
-⭐ Thanks for visiting!
-
-If you enjoyed my projects, don't forget to leave a ⭐.
-
-</div>
+Feel free to explore my projects and follow my journey in connecting architecture, data, and technology to create intelligent solutions.
 
 ---
 

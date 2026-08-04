@@ -4,14 +4,19 @@
 
 <br>
 
-# 👋 Olá, eu sou Vinícius Freire
+<h1 align="center">👋 Olá, eu sou Vinícius Freire</h1>
 
-### Desenvolvedor Python • Analista de Dados
+<h3 align="center">
+🏗️ Arquiteto e Urbanista | 💻 Análise e Desenvolvimento de Sistemas | 🐍 Python, 📊 Dados e ⚙️ Automação
+</h3>
 
-💻 Python • SQL • Power BI • Automação • Análise de Dados
+Unindo arquitetura, tecnologia e dados para desenvolver soluções inteligentes através de programação e automação.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Analista+de+Dados;Sempre+aprendendo" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1100&lines=Arquiteto+e+Urbanista+%7C+ADS;Python+%7C+Dados+%7C+Automação;Arquitetura+orientada+por+dados;Conectando+arquitetura,+dados+e+tecnologia"
+    alt="Typing SVG"
+  />
 </p>
 
 > Transformando dados em soluções e ideias em código.
@@ -32,11 +37,9 @@
 
 # 👨‍💻 Sobre mim
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas (ADS)** e em **Arquitetura e Urbanismo**.
+Sou **Arquiteto e Urbanista**, com formação em **Análise e Desenvolvimento de Sistemas**, explorando a integração entre arquitetura, tecnologia e dados para desenvolver soluções inteligentes.
 
-Atualmente direciono minha carreira para o desenvolvimento de software, automação de processos e análise de dados, buscando criar soluções eficientes e escaláveis.
-
-Tenho interesse especial em **Python**, **SQL**, **Power BI** e tecnologias voltadas para automação, desenvolvimento de aplicações e análise de dados.
+Minha trajetória une o conhecimento adquirido em projetos arquitetônicos e engenharia com ferramentas de programação, análise de dados e automação de processos.
 
 Minha experiência anterior em arquitetura agregou competências como planejamento, organização, gestão de projetos e resolução de problemas, habilidades que hoje aplico também no desenvolvimento de software.
 
@@ -44,9 +47,9 @@ Minha experiência anterior em arquitetura agregou competências como planejamen
 
 # 🎓 Formação
 
-- 🎓 Análise e Desenvolvimento de Sistemas
-
 - 🎓 Arquitetura e Urbanismo
+
+- 🎓 Análise e Desenvolvimento de Sistemas
 
 ---
 
@@ -70,7 +73,6 @@ Minha experiência anterior em arquitetura agregou competências como planejamen
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge"/>
 
@@ -94,7 +96,7 @@ Minha experiência anterior em arquitetura agregou competências como planejamen
 
 ---
 
-# 📚 Atualmente estudando
+# 📚 Aprendizado contínuo
 
 - 🐍 Python Avançado
 - 🗄️ SQL
@@ -106,41 +108,41 @@ Minha experiência anterior em arquitetura agregou competências como planejamen
 
 ---
 
-# 🎯 Objetivos
+## 🚀 Áreas de Interesse
 
-Atualmente busco oportunidades para atuar como **Desenvolvedor Python** ou **Analista de Dados**, contribuindo com soluções eficientes, aprendizado contínuo e desenvolvimento de projetos que gerem valor para empresas e equipes.
+### 🏗️ Tecnologia aplicada à Arquitetura e Engenharia
+- Arquitetura orientada por dados
+- BIM e fluxos de trabalho digitais
+- Automação aplicada à arquitetura e engenharia
+- Otimização de processos de projeto
+- Soluções inteligentes para o ambiente construído
 
----
+### 📊 Análise de Dados & Business Intelligence
+- Análise exploratória de dados
+- Tratamento e organização de dados
+- Visualização de dados e storytelling
+- Dashboards interativos com Power BI
+- Indicadores para tomada de decisão
 
-# 📊 Estatísticas do GitHub
+### 🐍 Desenvolvimento Python & Automação
+- Desenvolvimento de scripts em Python
+- Automação de processos repetitivos
+- Manipulação e processamento de dados
+- Web scraping e coleta de informações
+- Desenvolvimento de soluções práticas
 
-<div align="center">
+### 🗄️ Banco de Dados & Desenvolvimento de Sistemas
+- Modelagem e consultas SQL
+- Organização e gerenciamento de dados
+- Desenvolvimento de APIs
+- Integração entre sistemas
+- Fundamentos de desenvolvimento backend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinicius-freire-oliveira&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-freire-oliveira&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vinicius-freire-oliveira&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinicius-freire-oliveira&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
+### 🤖 Tecnologias Emergentes
+- Inteligência Artificial aplicada a processos
+- Fundamentos de Machine Learning
+- Soluções baseadas em dados
+- Transformação digital
 
 ---
 
@@ -154,15 +156,35 @@ Atualmente estou construindo meu portfólio com projetos voltados para:
 - 📈 Power BI
 - 🤖 Automação
 
+<div align="center">
+
 ---
+
+# 📈 Atividade no GitHub
 
 <div align="center">
 
-⭐ Obrigado pela visita!
-
-Se gostou dos meus projetos, não esqueça de deixar uma ⭐.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicius-freire-oliveira&theme=github-compact&hide_border=true"/>
 
 </div>
+
+---
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius-freire-oliveira/vinicius-freire-oliveira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius-freire-oliveira/vinicius-freire-oliveira/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vinicius-freire-oliveira/vinicius-freire-oliveira/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+⭐ Obrigado pela visita!
+
+Fique à vontade para explorar meus projetos e acompanhar minha evolução na integração entre arquitetura, dados e tecnologia.
 
 ---
 
@@ -185,4 +207,3 @@ Se gostou dos meus projetos, não esqueça de deixar uma ⭐.
 </div>
 
 ---
-
