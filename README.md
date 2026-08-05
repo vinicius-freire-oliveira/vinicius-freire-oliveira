@@ -7,7 +7,7 @@
 <h1 align="center">👋 Olá, eu sou Vinícius Freire</h1>
 
 <h3 align="center">
-🏗️ Arquiteto e Urbanista | 💻 Análise e Desenvolvimento de Sistemas | 🐍 Python, 📊 Dados e ⚙️ Automação
+🏗️ Arquiteto e Urbanista | 🦺 Especialista em Engenharia de Segurança do Trabalho | 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas | 🐍 Python • 📊 Dados • ⚙️ Automação
 </h3>
 
 Unindo arquitetura, tecnologia e dados para desenvolver soluções inteligentes através de programação e automação.

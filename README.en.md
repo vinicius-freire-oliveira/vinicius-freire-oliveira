@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hello, I'm Vinícius Freire</h1>
 
 <h3 align="center">
-🏗️ Architect and Urban Planner | 💻 Systems Analysis and Development | 🐍 Python, 📊 Data & ⚙️ Automation
+🏗️ Architect & Urban Planner | 🦺 Occupational Safety Engineering Specialist | 🐍 Python Developer | 📊 Data Analytics | ⚙️ Automation
 </h3>
 
 Bridging architecture, technology, and data to create intelligent solutions through programming and automation.
